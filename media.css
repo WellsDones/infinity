@@ -22,6 +22,14 @@
     font-size: 5em;
   }
 }
+@media (max-width: 740px) and (orientation: landscape) {
+  #hearth {
+    font-size: 15em;
+  }
+  #timeThatIsEndless {
+    font-size: 5em;
+  }
+}
 @media (max-width: 660px) and (orientation: landscape) {
   #hearth {
     font-size: 15em;
