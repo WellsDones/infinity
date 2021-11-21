@@ -1,0 +1,52 @@
+html, body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+
+  overflow: hidden;
+
+  background-color: hsl(295, 44%, 64%);
+}
+* {
+  cursor: url(./img/cursor.png), auto;
+
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+*::selection {
+  background: transparent;
+}
+#main_section {
+  width: 100%;
+  height: 100%;
+}
+#hearth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 60%;
+
+  font-size: 30em;
+  color: hsl(7, 82%, 47%);
+
+  filter: drop-shadow(2px 4px 6px rgb(160, 48, 48));
+}
+#timeThatIsEndless {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  width: 100%;
+  height: 40%;
+  font-size: 10em;
+  white-space: nowrap;
+  color: hsl(271, 66%, 53%);
+
+  filter: drop-shadow(2px 4px 6px rgb(184, 90, 153));
+}

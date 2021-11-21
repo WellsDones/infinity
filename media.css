@@ -1,0 +1,74 @@
+@media (max-width: 1050px) and (max-height: 610px) {
+    #timeThatIsEndless {
+      font-size: 5em;
+      align-items: center;
+    }
+}
+@media (max-width: 1030px) and (orientation: portrait) {
+  #timeThatIsEndless {
+    font-size: 8em;
+  }
+}
+@media (max-width: 1030px) and (orientation: landscape) {
+  #timeThatIsEndless {
+    font-size: 8em;
+  }
+}
+@media (max-width: 825px) and (orientation: landscape) {
+  #hearth {
+    font-size: 20em;
+  }
+  #timeThatIsEndless {
+    font-size: 5em;
+  }
+}
+@media (max-width: 660px) and (orientation: landscape) {
+  #hearth {
+    font-size: 15em;
+  }
+  #timeThatIsEndless {
+    font-size: 3.5em;
+  }
+}
+@media (max-width: 770px) and (orientation: portrait) {
+  #timeThatIsEndless {
+    font-size: 7em;
+  }
+}
+@media (max-width: 550px) and (orientation: portrait) {
+  #timeThatIsEndless {
+    font-size: 4.5em;
+  }
+}
+@media (max-width: 440px) and (orientation: portrait) {
+  #hearth {
+    font-size: 20em;
+  }
+  #timeThatIsEndless {
+    font-size: 3.5em;
+  }
+}
+@media (max-width: 380px) and (orientation: portrait) {
+  #hearth {
+    font-size: 20em;
+  }
+  #timeThatIsEndless {
+    font-size: 3.5em;
+  }
+}
+@media (max-width: 360px) and (orientation: portrait) {
+  #hearth {
+    font-size: 20em;
+  }
+  #timeThatIsEndless {
+    font-size: 2.5em;
+  }
+}
+@media (max-width: 280px) and (orientation: portrait) {
+  #hearth {
+    font-size: 17em;
+  }
+  #timeThatIsEndless {
+    font-size: 2.5em;
+  }
+}
